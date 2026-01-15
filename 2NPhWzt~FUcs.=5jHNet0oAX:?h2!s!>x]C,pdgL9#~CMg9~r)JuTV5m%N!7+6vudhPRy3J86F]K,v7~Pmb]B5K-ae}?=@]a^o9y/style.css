@@ -1,11 +1,21 @@
 body {
+    text-align: center;
 }
 
 img {
     display: block;
     width: auto;
+}
+img.left {
+    float: left;
+}
+img.right {
+    float: right;
+}
+img.center {
     margin: auto;
 }
+
 div {
     width: 300px;
     margin: auto;
