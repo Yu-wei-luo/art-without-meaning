@@ -3,3 +3,8 @@ body {
     width:auto;
     text-align:justify;
 }
+
+img {
+    display: block;
+    width: auto;
+}
