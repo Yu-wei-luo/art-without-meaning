@@ -1,2 +1,1 @@
 # art-without-meaning
-research
