@@ -1,12 +1,12 @@
 body {
-    margin:auto;
-    width:auto;
-    text-align:justify;
 }
+
 img {
     display: block;
     width: auto;
+    margin: auto;
 }
 div {
-    width:300px;
+    width: 300px;
+    margin: auto;
 }
