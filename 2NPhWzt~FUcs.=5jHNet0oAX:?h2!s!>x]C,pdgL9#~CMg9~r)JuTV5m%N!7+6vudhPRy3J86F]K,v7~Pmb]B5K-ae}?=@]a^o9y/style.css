@@ -1,16 +1,14 @@
-body {
-    text-align: center;
-}
+
 
 img {
     display: block;
     width: auto;
 }
 img.left {
-    float: left;
+    margin-right: auto;
 }
 img.right {
-    float: right;
+    margin-left: auto;
 }
 img.center {
     margin: auto;
@@ -19,4 +17,13 @@ img.center {
 div {
     width: 300px;
     margin: auto;
+}
+div.center {
+    text-align: center;
+}
+div.left {
+    text-align: left;
+}
+div.right {
+    text-align: right;
 }
