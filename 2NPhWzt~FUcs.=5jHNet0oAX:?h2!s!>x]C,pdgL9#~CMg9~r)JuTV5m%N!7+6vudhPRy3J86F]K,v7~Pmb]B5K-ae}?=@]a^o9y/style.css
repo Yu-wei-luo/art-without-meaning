@@ -3,27 +3,11 @@
 img {
     display: block;
     width: auto;
-}
-img.left {
-    margin-right: auto;
-}
-img.right {
-    margin-left: auto;
-}
-img.center {
     margin: auto;
 }
 
 div {
     width: 300px;
     margin: auto;
-}
-div.center {
     text-align: center;
-}
-div.left {
-    text-align: left;
-}
-div.right {
-    text-align: right;
 }
